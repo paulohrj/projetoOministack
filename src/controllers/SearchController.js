@@ -16,6 +16,6 @@ module.exports = {
         
         
         4//console.log(techsArray);
-        return response.json(devs );
+        return response.json(devs);
     }
 }
